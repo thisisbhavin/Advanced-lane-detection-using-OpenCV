@@ -178,9 +178,3 @@ result = cv2.addWeighted(undistorted_img, 1, newwarp, 0.3, 0)
 
 ##### Final output image
 ![alt text][image7]
-
-### Final video
-
-<video width="320" height="240" controls>
-  <source src="project_video_output.mp4" type="video/mp4">
-</video>
